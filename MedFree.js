@@ -9,8 +9,8 @@
 // @match          *://*/*
 // @grant          none
 // @license        MIT
-// @downloadURL https://update.greasyfork.org/scripts/481493/Medium%20Unlocker%20%282023-12-06%20updated%29.user.js
-// @updateURL https://update.greasyfork.org/scripts/481493/Medium%20Unlocker%20%282023-12-06%20updated%29.meta.js
+// @downloadURL https://update.greasyfork.org/scripts/498279/Medium%20Unlocker.user.js
+// @updateURL https://update.greasyfork.org/scripts/498279/Medium%20Unlocker.user.js
 // ==/UserScript==
 
 (function () {
