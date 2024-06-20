@@ -2,7 +2,7 @@
 // @name           Medium Unlocker
 // @name:zh-CN     Medium Free
 // @namespace      https://github.com/blacksev
-// @version        1.0.0
+// @version        1.0.1
 // @description:zh-CN    自动检测Medium文章（包括子域名和自定义域名），替换URL为freedium.cfd来解锁Medium付费文章
 // @description Automatically detect Medium articles (including subdomains and custom domains) and replace the URL with freedium.cfd to unlock Medium Posts.
 // @author         origin by blacksev
