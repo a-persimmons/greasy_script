@@ -6,7 +6,7 @@
 // @description:zh-CN    自动检测Medium文章（包括子域名和自定义域名），替换URL为freedium.cfd来解锁Medium付费文章
 // @description Automatically detect Medium articles (including subdomains and custom domains) and replace the URL with freedium.cfd to unlock Medium Posts.
 // @author         origin by blacksev
-// @match          *://*/*
+// @match          *://medium.com/*
 // @grant          none
 // @license        MIT
 // @downloadURL https://update.greasyfork.org/scripts/498279/Medium%20Unlocker.user.js
