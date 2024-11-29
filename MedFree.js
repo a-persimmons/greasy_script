@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           Medium Unlocker
+// @name           Medium Free
 // @name:zh-CN     Medium Free
 // @namespace      https://github.com/blacksev
 // @version        1.0.2
