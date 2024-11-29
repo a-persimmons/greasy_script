@@ -7,6 +7,7 @@
 // @description Automatically detect Medium articles (including subdomains and custom domains) and replace the URL with freedium.cfd to unlock Medium Posts.
 // @author         origin by blacksev
 // @match          *://medium.com/*
+// @match          *://*.medium.com/*
 // @grant          none
 // @license        MIT
 // @downloadURL https://update.greasyfork.org/scripts/498279/Medium%20Unlocker.user.js
